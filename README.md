@@ -1,1 +1,2 @@
+autofarm
 # bloxfruits-autofarm-script
